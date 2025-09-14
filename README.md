@@ -3,13 +3,13 @@
 This repository contains solutions for multiple Bash scripting tasks.
 The tasks cover file management, system monitoring, user account management, automated backup, a to-do list manager, software installation automation, and text file processing.
 
-📂 ** Repository Contents**
+📂 **Repository Contents**
 
-**assignment.ipynb – Jupyter Notebook with explanations and code walkthroughs.
+**assignment.ipynb** – Jupyter Notebook with explanations and code walkthroughs.
 
-scripts/ – Folder containing all Bash scripts for individual tasks.
+**scripts/** – Folder containing all Bash scripts for individual tasks.
 
-screenshots/ – Assignment screenshots for reference.**
+**screenshots/** – Assignment screenshots for reference.
 
 📝 **Tasks Implemented
 Task 1: File Management Script**
